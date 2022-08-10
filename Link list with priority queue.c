@@ -49,7 +49,7 @@ struct node{
 	 void arasile(int eleman){
     	
     	if(baslangic==NULL){
-    		printf("Eleman kalmadý !!!");
+    		printf("Eleman kalmadÄ± !!!");
     		return;
 		}
     	if(baslangic->oncelik==eleman){
