@@ -1,1 +1,1 @@
-# -college-school-assignment
+# school-assignment
